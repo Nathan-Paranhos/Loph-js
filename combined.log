@@ -1,0 +1,376 @@
+{"level":"info","message":"Cliente WhatsApp está pronto!","timestamp":"2025-04-06T19:19:45.600Z"}
+{"level":"warn","message":"IA \"huggingface\" falhou e será ignorada.","timestamp":"2025-04-06T19:20:20.083Z"}
+{"level":"warn","message":"IA \"huggingface\" falhou e será ignorada.","timestamp":"2025-04-06T19:20:25.179Z"}
+{"level":"warn","message":"IA \"ollama_local:gemma\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:13.288Z"}
+{"level":"warn","message":"IA \"ollama_local:dolphin-mistral\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:13.300Z"}
+{"level":"warn","message":"IA \"ollama_local:codellama\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:13.309Z"}
+{"level":"warn","message":"IA \"ollama_local:gemma\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:20.791Z"}
+{"level":"warn","message":"IA \"ollama_local:dolphin-mistral\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:20.797Z"}
+{"level":"warn","message":"IA \"ollama_local:codellama\" falhou e será ignorada.","timestamp":"2025-04-06T19:22:20.802Z"}
+{"level":"warn","message":"IA \"huggingface\" falhou e será ignorada.","timestamp":"2025-04-06T19:23:20.089Z"}
+{"level":"warn","message":"IA \"huggingface\" falhou e será ignorada.","timestamp":"2025-04-06T19:23:27.775Z"}
+{"level":"warn","message":"IA \"ollama_local:gemma\" falhou e será ignorada.","timestamp":"2025-04-06T19:26:37.100Z"}
+{"level":"warn","message":"IA \"ollama_local:dolphin-mistral\" falhou e será ignorada.","timestamp":"2025-04-06T19:26:37.112Z"}
+{"level":"warn","message":"IA \"ollama_local:codellama\" falhou e será ignorada.","timestamp":"2025-04-06T19:26:37.116Z"}
+{"level":"warn","message":"IA \"ollama_local:gemma\" falhou e será ignorada.","timestamp":"2025-04-06T19:28:09.088Z"}
+{"level":"warn","message":"IA \"ollama_local:dolphin-mistral\" falhou e será ignorada.","timestamp":"2025-04-06T19:28:09.093Z"}
+{"level":"warn","message":"IA \"ollama_local:codellama\" falhou e será ignorada.","timestamp":"2025-04-06T19:28:09.097Z"}
+{"level":"warn","message":"IA \"huggingface\" falhou e será ignorada.","timestamp":"2025-04-06T19:29:40.140Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:16:35.372Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:16:35.631Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:16:35.724Z"}
+{"level":"warn","message":"Falha ao carregar biblioteca danfo: DOMParser is not defined","timestamp":"2025-04-06T20:16:36.659Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:16:36.674Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:16:36.709Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:17:20.866Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:17:20.960Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:17:20.979Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:17:20.995Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:17:21.030Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:17:38.356Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:17:38.446Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:17:38.463Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:17:38.479Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:17:38.511Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:21:04.727Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:21:04.850Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:21:04.867Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:21:04.883Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:21:04.918Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T20:23:57.145Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Request failed with status code 403","timestamp":"2025-04-06T20:27:01.583Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs em paralelo.","stack":"Error: Erro ao processar as IAs em paralelo.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:219:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:24)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:27:01.584Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Request failed with status code 403","timestamp":"2025-04-06T20:27:21.096Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs em paralelo.","stack":"Error: Erro ao processar as IAs em paralelo.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:219:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:24)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:27:21.140Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T20:30:10.769Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: [object Object]","timestamp":"2025-04-06T20:31:33.049Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Erro ao processar HuggingFace.","timestamp":"2025-04-06T20:31:33.050Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs em paralelo.","stack":"Error: Erro ao processar as IAs em paralelo.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:244:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:24)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:31:33.050Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T20:39:32.365Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: [object Object]","timestamp":"2025-04-06T20:39:44.685Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Erro ao processar HuggingFace.","timestamp":"2025-04-06T20:39:44.686Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs em paralelo.","stack":"Error: Erro ao processar as IAs em paralelo.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:244:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:24)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:39:44.687Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T20:44:10.261Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: [object Object]","timestamp":"2025-04-06T20:44:25.525Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Erro ao processar HuggingFace.","timestamp":"2025-04-06T20:44:25.526Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs sequencialmente.","stack":"Error: Erro ao processar as IAs sequencialmente.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:243:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:24)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:44:25.527Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:50:49.647Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:50:49.771Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:50:49.794Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:50:49.812Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:50:49.845Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T20:51:05.114Z"}
+{"level":"error","message":"Erro no processamento da mensagem: this.aiService.processWithAllAIs is not a function","stack":"TypeError: this.aiService.processWithAllAIs is not a function\n    at WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:104:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:66:7)","timestamp":"2025-04-06T20:51:18.843Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:52:43.649Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:52:43.794Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:52:43.822Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:52:43.844Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:52:43.890Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:52:52.811Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:52:52.896Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:52:52.914Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:52:52.929Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:52:52.960Z"}
+{"level":"info","message":"Iniciando carregamento do aiService...","timestamp":"2025-04-06T20:55:20.508Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:55:21.586Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:55:21.695Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:55:21.716Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:55:21.735Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:55:21.772Z"}
+{"level":"info","message":"Iniciando carregamento do aiService...","timestamp":"2025-04-06T20:57:04.387Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:57:05.617Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:57:05.739Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:57:05.762Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:57:05.782Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:57:05.821Z"}
+{"level":"info","message":"Iniciando carregamento do aiService...","timestamp":"2025-04-06T20:59:48.512Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T20:59:49.451Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T20:59:49.550Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T20:59:49.573Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T20:59:49.592Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T20:59:49.629Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-06T20:59:49.632Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-06T20:59:49.632Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-06T20:59:49.634Z"}
+{"level":"info","message":"Inicializando o cliente WhatsApp...","timestamp":"2025-04-06T20:59:49.634Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T21:00:05.000Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: [object Object]","timestamp":"2025-04-06T21:00:22.285Z"}
+{"level":"warn","message":"Erro ao processar as IAs: Erro ao processar HuggingFace.","timestamp":"2025-04-06T21:00:22.285Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Erro ao processar as IAs sequencialmente.","stack":"Error: Erro ao processar as IAs sequencialmente.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:238:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:102:26)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:64:9)","timestamp":"2025-04-06T21:00:22.286Z"}
+{"level":"info","message":"Iniciando carregamento do aiService...","timestamp":"2025-04-06T21:03:14.620Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-06T21:03:15.602Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-06T21:03:15.691Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-06T21:03:15.710Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-06T21:03:15.726Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-06T21:03:15.758Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-06T21:03:15.760Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-06T21:03:15.761Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-06T21:03:15.762Z"}
+{"level":"info","message":"Inicializando o cliente WhatsApp...","timestamp":"2025-04-06T21:03:15.763Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-06T21:03:29.816Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:04:07.785Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:04:07.786Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-06T21:04:09.675Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-06T21:05:28.760Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-06T21:08:54.999Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:12:30.273Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:12:30.298Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-06T21:12:32.695Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-06T21:12:35.124Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-06T21:17:39.107Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-06T21:19:03.758Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-06T21:22:52.060Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-06T21:25:08.760Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-06T21:27:37.970Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-06T21:33:08.219Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-06T21:39:45.259Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:42:12.810Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:42:12.811Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-06T21:42:23.162Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:47:56.243Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T21:47:56.252Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-06T21:48:01.254Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-06T21:56:05.535Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-06T21:57:19.235Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-06T22:07:13.906Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-06T22:11:14.851Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-06T22:16:48.981Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-06T22:20:56.638Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-06T22:31:46.072Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-06T22:32:30.528Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-06T22:41:38.933Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-06T22:44:43.894Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T23:19:50.801Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-06T23:19:50.802Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-06T23:19:56.008Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-06T23:26:39.335Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-06T23:30:41.222Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-06T23:35:18.326Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-06T23:38:02.823Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-06T23:40:32.475Z"}
+{"level":"info","message":"Iniciando carregamento do aiService...","timestamp":"2025-04-07T01:00:09.904Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T01:00:23.606Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T01:00:23.803Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T01:00:23.860Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T01:00:23.964Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T01:00:24.026Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T01:00:24.029Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T01:00:24.029Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T01:00:24.031Z"}
+{"level":"info","message":"Inicializando o cliente WhatsApp...","timestamp":"2025-04-07T01:00:24.031Z"}
+{"level":"info","message":"✅ Cliente WhatsApp está pronto!","timestamp":"2025-04-07T01:00:40.851Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:02:39.223Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:02:39.224Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-07T01:02:41.010Z"}
+{"level":"info","message":"Resposta de ollama_local:dolphin-mistral obtida com sucesso.","timestamp":"2025-04-07T01:03:16.432Z"}
+{"level":"info","message":"Resposta de ollama_local:mistral obtida com sucesso.","timestamp":"2025-04-07T01:03:32.883Z"}
+{"level":"info","message":"Resposta de ollama_local:codellama obtida com sucesso.","timestamp":"2025-04-07T01:04:00.591Z"}
+{"level":"info","message":"Resposta de ollama_local:llama3 obtida com sucesso.","timestamp":"2025-04-07T01:04:12.949Z"}
+{"level":"info","message":"Resposta de ollama_local:gemma obtida com sucesso.","timestamp":"2025-04-07T01:04:41.983Z"}
+{"level":"info","message":"Carregando aiService...","timestamp":"2025-04-07T01:11:21.808Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T01:11:22.909Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T01:11:23.043Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T01:11:23.061Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T01:11:23.077Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T01:11:23.109Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T01:11:23.111Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T01:11:23.111Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T01:11:23.112Z"}
+{"level":"info","message":"Inicializando cliente WhatsApp...","timestamp":"2025-04-07T01:11:23.113Z"}
+{"level":"info","message":"Cliente WhatsApp pronto!","timestamp":"2025-04-07T01:11:37.099Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:13:17.342Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:13:17.343Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-07T01:13:19.019Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:13:22.122Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:13:22.123Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:13:22.124Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:13:22.124Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:13:22.124Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:13:22.125Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:13:22.125Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:13:22.125Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:13:22.126Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:13:22.126Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:13:41.733Z"}
+{"level":"warn","message":"Falha ao processar huggingface: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:13:41.734Z"}
+{"level":"info","message":"Resposta de openrouter obtida com sucesso.","timestamp":"2025-04-07T01:13:46.228Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:13:46.515Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:13:46.516Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:13:46.516Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:13:46.517Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:13:46.517Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:13:46.518Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:13:46.519Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:13:46.519Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:13:46.520Z"}
+{"level":"warn","message":"Falha ao processar ollama_local:codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:13:46.520Z"}
+{"level":"info","message":"Carregando aiService...","timestamp":"2025-04-07T01:19:29.471Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T01:19:30.910Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T01:19:31.037Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T01:19:31.056Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T01:19:31.074Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T01:19:31.107Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T01:19:31.109Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T01:19:31.110Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T01:19:31.112Z"}
+{"level":"info","message":"Inicializando cliente WhatsApp...","timestamp":"2025-04-07T01:19:31.112Z"}
+{"level":"info","message":"Cliente WhatsApp pronto!","timestamp":"2025-04-07T01:19:44.982Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:20:38.163Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:21:11.242Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:21:29.042Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:21:29.043Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:21:29.276Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:21:29.277Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:21:34.288Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:21:34.289Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:21:39.319Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:21:39.345Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:21:44.380Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:21:44.381Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:21:49.389Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:21:49.390Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:21:54.410Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:21:54.411Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:282:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:96:35)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:61:9)","timestamp":"2025-04-07T01:21:54.433Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:24:02.944Z"}
+{"level":"info","message":"Carregando aiService...","timestamp":"2025-04-07T01:24:26.788Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T01:24:28.017Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T01:24:28.141Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T01:24:28.159Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T01:24:28.176Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T01:24:28.211Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T01:24:28.213Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T01:24:28.213Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T01:24:28.215Z"}
+{"level":"info","message":"Inicializando cliente WhatsApp...","timestamp":"2025-04-07T01:24:28.215Z"}
+{"level":"info","message":"Cliente WhatsApp pronto!","timestamp":"2025-04-07T01:24:42.540Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:25:27.645Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:25:49.339Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:26:34.943Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:26:34.943Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:26:35.157Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:26:35.158Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:26:40.171Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:26:40.172Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:26:45.190Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:26:45.212Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:26:50.237Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:26:50.238Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:26:55.241Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:26:55.241Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:27:00.254Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:27:00.255Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:343:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:96:35)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:61:9)","timestamp":"2025-04-07T01:27:00.393Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:27:21.214Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:27:21.215Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:27:21.428Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:27:21.428Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:27:26.434Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:27:26.435Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:27:31.444Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:27:31.445Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:27:36.461Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:27:36.462Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:27:41.473Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:27:41.474Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:27:46.486Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:27:46.487Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:343:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:96:35)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:61:9)","timestamp":"2025-04-07T01:27:46.488Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:29:17.726Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:32:35.711Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:32:35.749Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:32:36.089Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:32:36.090Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:32:41.111Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:32:41.111Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:32:46.131Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:32:46.131Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:32:51.146Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:32:51.147Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:32:56.156Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:32:56.157Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:33:01.159Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:33:01.160Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:343:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:96:35)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:61:9)","timestamp":"2025-04-07T01:33:01.163Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:33:14.817Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:33:14.818Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:33:15.034Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:33:15.035Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:33:20.051Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:33:20.051Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:33:25.057Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:33:25.059Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:33:30.076Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:33:30.077Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:33:35.084Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:33:35.085Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:33:40.091Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:33:40.092Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:343:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:96:35)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:61:9)","timestamp":"2025-04-07T01:33:40.092Z"}
+{"level":"info","message":"Carregando aiService...","timestamp":"2025-04-07T01:44:56.117Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T01:45:05.360Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T01:45:05.556Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T01:45:05.614Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T01:45:05.723Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T01:45:05.795Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T01:45:05.798Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T01:45:05.799Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T01:45:05.801Z"}
+{"level":"info","message":"Inicializando cliente WhatsApp...","timestamp":"2025-04-07T01:45:05.801Z"}
+{"level":"info","message":"Cliente WhatsApp pronto!","timestamp":"2025-04-07T01:45:22.887Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:47:10.032Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:51:59.557Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T01:51:59.558Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:51:59.826Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T01:51:59.827Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T01:52:04.835Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T01:52:04.836Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T01:52:09.839Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T01:52:09.843Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T01:52:14.857Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T01:52:14.857Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T01:52:19.872Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T01:52:19.873Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T01:52:24.881Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T01:52:24.882Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:338:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:121:25)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:64:9)","timestamp":"2025-04-07T01:52:24.895Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:52:55.152Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:53:55.709Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T01:54:06.869Z"}
+{"level":"error","message":"Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T02:13:53.873Z"}
+{"level":"warn","message":"Falha ao obter resposta do OpenRouter: Erro ao processar OpenRouter: Timeout","timestamp":"2025-04-07T02:13:53.884Z"}
+{"level":"error","message":"Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T02:13:54.115Z"}
+{"level":"warn","message":"Falha ao obter resposta do HuggingFace: Erro ao processar HuggingFace: Status: 403, Data: {\"error\":\"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user nploph\"}","timestamp":"2025-04-07T02:13:54.116Z"}
+{"level":"error","message":"Erro ao processar modelo local llama3: Timeout","timestamp":"2025-04-07T02:13:59.123Z"}
+{"level":"warn","message":"Falha com modelo local llama3: Erro ao processar modelo local llama3.","timestamp":"2025-04-07T02:13:59.124Z"}
+{"level":"error","message":"Erro ao processar modelo local mistral: Timeout","timestamp":"2025-04-07T02:14:04.138Z"}
+{"level":"warn","message":"Falha com modelo local mistral: Erro ao processar modelo local mistral.","timestamp":"2025-04-07T02:14:04.139Z"}
+{"level":"error","message":"Erro ao processar modelo local gemma: Timeout","timestamp":"2025-04-07T02:14:09.152Z"}
+{"level":"warn","message":"Falha com modelo local gemma: Erro ao processar modelo local gemma.","timestamp":"2025-04-07T02:14:09.153Z"}
+{"level":"error","message":"Erro ao processar modelo local dolphin-mistral: Timeout","timestamp":"2025-04-07T02:14:14.159Z"}
+{"level":"warn","message":"Falha com modelo local dolphin-mistral: Erro ao processar modelo local dolphin-mistral.","timestamp":"2025-04-07T02:14:14.161Z"}
+{"level":"error","message":"Erro ao processar modelo local codellama: Timeout","timestamp":"2025-04-07T02:14:19.163Z"}
+{"level":"warn","message":"Falha com modelo local codellama: Erro ao processar modelo local codellama.","timestamp":"2025-04-07T02:14:19.164Z"}
+{"level":"error","message":"Erro no processamento da mensagem: Nenhuma IA conseguiu responder.","stack":"Error: Nenhuma IA conseguiu responder.\n    at AIService.processWithAllAIs (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/services/ai-service.js:338:15)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:555:9)\n    at process.processTimers (node:internal/timers:529:7)\n    at async WhatsAppBot.processUserMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:121:25)\n    at async WhatsAppBot.handleMessage (file:///C:/Users/paran/OneDrive/%C3%81rea%20de%20Trabalho/Loph/src/bot.js:64:9)","timestamp":"2025-04-07T02:14:19.169Z"}
+{"level":"info","message":"Carregando aiService...","timestamp":"2025-04-07T02:16:01.977Z"}
+{"level":"info","message":"Biblioteca math carregada com sucesso.","timestamp":"2025-04-07T02:16:03.270Z"}
+{"level":"info","message":"Biblioteca tf carregada com sucesso.","timestamp":"2025-04-07T02:16:03.397Z"}
+{"level":"info","message":"Biblioteca brain carregada com sucesso.","timestamp":"2025-04-07T02:16:03.414Z"}
+{"level":"info","message":"Biblioteca d3 carregada com sucesso.","timestamp":"2025-04-07T02:16:03.432Z"}
+{"level":"info","message":"Biblioteca jshint carregada com sucesso.","timestamp":"2025-04-07T02:16:03.464Z"}
+{"level":"info","message":"aiService carregado com sucesso!","timestamp":"2025-04-07T02:16:03.466Z"}
+{"level":"info","message":"Criando instância do WhatsAppBot...","timestamp":"2025-04-07T02:16:03.467Z"}
+{"level":"info","message":"Iniciando o bot...","timestamp":"2025-04-07T02:16:03.468Z"}
+{"level":"info","message":"Inicializando cliente WhatsApp...","timestamp":"2025-04-07T02:16:03.469Z"}
+{"level":"info","message":"Cliente WhatsApp pronto!","timestamp":"2025-04-07T02:16:18.271Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:18:05.395Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:21:20.445Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:50:25.234Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:52:42.486Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:53:26.615Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:53:55.211Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:54:39.283Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:55:22.065Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:56:06.821Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:56:37.133Z"}
+{"level":"info","message":"Resposta de OpenRouter obtida.","timestamp":"2025-04-07T02:56:45.718Z"}
